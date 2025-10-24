@@ -9,7 +9,7 @@ Each section includes the **problem statement**, **expected output**, and **actu
 ## Sample Input & Output 
 <img width="1060" height="892" alt="image" src="https://github.com/user-attachments/assets/166d38af-77d1-4f06-ba47-14d1ed7b874a" />
 
-## Answer
+## Answer  (Code)
 <img width="1082" height="601" alt="image" src="https://github.com/user-attachments/assets/a7e1257f-315c-4d89-9577-bc5f8c1c72d7" />
 
 ## Output
@@ -24,7 +24,7 @@ Each section includes the **problem statement**, **expected output**, and **actu
 ## Sample Input & Output 
 <img width="1083" height="792" alt="image" src="https://github.com/user-attachments/assets/1fd7c462-7dca-4a16-a86c-c3941af3affc" />
 
-## Answer
+## Answer  (Code)
 <img width="1058" height="290" alt="image" src="https://github.com/user-attachments/assets/76ec4dcb-4a5f-4de6-9556-5fd1c3f53088" />
 
 ## Output
@@ -39,7 +39,7 @@ Each section includes the **problem statement**, **expected output**, and **actu
 ## Sample Input & Output 
 <img width="1063" height="352" alt="image" src="https://github.com/user-attachments/assets/d0f5daf2-2fde-4624-9564-3fe43963abfa" />
 
-## Answer
+## Answer  (Code)
 <img width="1057" height="221" alt="image" src="https://github.com/user-attachments/assets/5e62a727-da64-4314-a785-c89b5f7e5b29" />
 
 ## Output
@@ -55,7 +55,7 @@ Each section includes the **problem statement**, **expected output**, and **actu
 ## Sample Input & Output 
 <img width="1057" height="362" alt="image" src="https://github.com/user-attachments/assets/133290b7-c064-44d1-a82f-516058e38e5a" />
 
-## Answer
+## Answer  (Code)
 <img width="1072" height="192" alt="image" src="https://github.com/user-attachments/assets/6c23d7ff-47eb-49e2-859f-1fb25c5caa28" />
 
 ## Output
@@ -71,7 +71,7 @@ Each section includes the **problem statement**, **expected output**, and **actu
 ## Sample Input & Output 
 <img width="1027" height="622" alt="image" src="https://github.com/user-attachments/assets/4ce21353-fc89-4398-8a7b-4d64d491a985" />
 
-## Answer
+## Answer  (Code)
 <img width="1060" height="251" alt="image" src="https://github.com/user-attachments/assets/8cfce52b-c019-4120-a1e1-bb29c052a3f1" />
 
 ## Output
@@ -86,7 +86,7 @@ Each section includes the **problem statement**, **expected output**, and **actu
 ## Sample Input & Output 
 <img width="1052" height="651" alt="image" src="https://github.com/user-attachments/assets/a633b283-9254-485d-8f78-af426be1839a" />
 
-## Answer
+## Answer  (Code)
 <img width="1112" height="323" alt="image" src="https://github.com/user-attachments/assets/706726c7-6ff0-4b7e-bd1e-4b8134f1bb71" />
 
 ## Output
@@ -102,7 +102,7 @@ Each section includes the **problem statement**, **expected output**, and **actu
 ## Sample Input & Output 
 <img width="1068" height="797" alt="image" src="https://github.com/user-attachments/assets/d27f982a-dd3a-4b84-9ccd-11700e248187" />
 
-## Answer
+## Answer  (Code)
 <img width="1090" height="608" alt="image" src="https://github.com/user-attachments/assets/9f448235-b932-4d8d-8e0d-ba350af7649f" />
 
 ## Output
@@ -118,7 +118,7 @@ Each section includes the **problem statement**, **expected output**, and **actu
 ## Sample Input & Output 
 <img width="1170" height="288" alt="image" src="https://github.com/user-attachments/assets/4b3fc66e-b5c7-4ac6-9473-b3f8ba30f77d" />
 
-## Answer
+## Answer  (Code)
 <img width="1063" height="128" alt="image" src="https://github.com/user-attachments/assets/61adf01f-f6a8-4fe8-8cb3-960adc079d77" />
 
 ## Output
@@ -134,7 +134,7 @@ Each section includes the **problem statement**, **expected output**, and **actu
 ## Sample Input & Output 
 <img width="1152" height="917" alt="image" src="https://github.com/user-attachments/assets/dcc6a77e-b387-4310-b9ea-e64cd1925915" />
 
-## Answer
+## Answer  (Code)
 <img width="1140" height="301" alt="image" src="https://github.com/user-attachments/assets/2897be25-4dd0-4fcc-9ce1-442c6cef1892" />
 
 ## Output
@@ -149,7 +149,7 @@ Each section includes the **problem statement**, **expected output**, and **actu
 ## Sample Input & Output 
 <img width="1147" height="462" alt="image" src="https://github.com/user-attachments/assets/1964ed20-7dd2-40d6-8e0e-8b32ac3c7445" />
 
-## Answer
+## Answer  (Code)
 <img width="1055" height="651" alt="image" src="https://github.com/user-attachments/assets/e98a6fc7-1ebc-4ec8-94f3-32c1cd074be3" />
 
 ## Output
@@ -165,7 +165,7 @@ Each section includes the **problem statement**, **expected output**, and **actu
 ## Sample Input & Output
 <img width="1148" height="276" alt="image" src="https://github.com/user-attachments/assets/09d570bf-4dae-41b5-9d5f-48ccf9de5e93" />
 
-## Answer
+## Answer  (Code)
 <img width="1155" height="235" alt="image" src="https://github.com/user-attachments/assets/5325f0e7-1353-45be-90d6-9dbdb1e9b8d6" />
 
 ## Output
@@ -182,7 +182,7 @@ Each section includes the **problem statement**, **expected output**, and **actu
 ## Sample Input & Output 
 <img width="1152" height="421" alt="image" src="https://github.com/user-attachments/assets/c6051333-20f6-493a-8a9b-f60722c4afb5" />
 
-## Answer
+## Answer  (Code)
 <img width="1170" height="100" alt="image" src="https://github.com/user-attachments/assets/b3fe3c1b-009e-4ca9-9881-44643f2ac837" />
 
 ## Output
@@ -197,7 +197,7 @@ Each section includes the **problem statement**, **expected output**, and **actu
 ## Sample Input & Output 
 <img width="1150" height="260" alt="image" src="https://github.com/user-attachments/assets/482e0947-685c-411c-be2e-e33a58e585fa" />
 
-## Answer
+## Answer  (Code)
 <img width="1136" height="121" alt="image" src="https://github.com/user-attachments/assets/1e31317a-1288-4f93-8653-355fadf6f98e" />
 
 ## Output
@@ -213,7 +213,7 @@ Each section includes the **problem statement**, **expected output**, and **actu
 ## Sample Input & Output 
 <img width="1143" height="310" alt="image" src="https://github.com/user-attachments/assets/2eea0ee8-6a51-4041-a869-3e46b663c8b6" />
 
-## Answer
+## Answer  (Code)
 <img width="1138" height="186" alt="image" src="https://github.com/user-attachments/assets/06ae5ee6-841a-4229-b5aa-c9f78e790b11" />
 
 ## Output
@@ -228,7 +228,7 @@ Each section includes the **problem statement**, **expected output**, and **actu
 ## Sample Input & Output 
 <img width="1142" height="391" alt="image" src="https://github.com/user-attachments/assets/7c5e30fe-8623-4961-9c88-58edae2d18d4" />
 
-## Answer
+## Answer  (Code)
 <img width="1162" height="330" alt="image" src="https://github.com/user-attachments/assets/a65a3942-f8e8-4776-8df1-533f557ab76f" />
 
 ## Output
@@ -243,7 +243,7 @@ Each section includes the **problem statement**, **expected output**, and **actu
 ## Sample Input & Output 
 <img width="1140" height="413" alt="image" src="https://github.com/user-attachments/assets/870386aa-1bf7-4faf-9fa2-6c53aef91477" />
 
-## Answer
+## Answer  (Code)
 <img width="1153" height="272" alt="image" src="https://github.com/user-attachments/assets/c7d71957-2eeb-4caf-9573-4ac33b86650d" />
 
 ## Output
@@ -257,7 +257,7 @@ Each section includes the **problem statement**, **expected output**, and **actu
 ## Sample Input & Output 
 <img width="1143" height="482" alt="image" src="https://github.com/user-attachments/assets/6b415e1f-95da-42be-a56f-0a3ad625d1da" />
 
-## Answer
+## Answer  (Code)
 <img width="1163" height="557" alt="image" src="https://github.com/user-attachments/assets/2db991c1-a748-4eec-b4ed-f5b6a95ea36c" />
 
 ## Output
@@ -272,7 +272,7 @@ Each section includes the **problem statement**, **expected output**, and **actu
 ## Sample Input & Output 
 <img width="1152" height="421" alt="image" src="https://github.com/user-attachments/assets/ef4d5d88-6742-4910-a0a5-2d2c47191197" />
 
-## Answer
+## Answer  (Code)
 <img width="1156" height="275" alt="image" src="https://github.com/user-attachments/assets/7278ac35-2473-43d6-8b59-f14f057e372e" />
 
 ## Output
@@ -288,7 +288,7 @@ Each section includes the **problem statement**, **expected output**, and **actu
 ## Sample Input & Output 
 <img width="1147" height="292" alt="image" src="https://github.com/user-attachments/assets/5ba2bc27-1c03-477d-8d5f-15604f905e2c" />
 
-## Answer
+## Answer  (Code)
 <img width="1156" height="612" alt="image" src="https://github.com/user-attachments/assets/b3dc132f-206a-4c5c-9d61-697fe0e2e09e" />
 
 ## Output
